@@ -1,6 +1,6 @@
 ## Default behaviour
 
-- Adds mandatory authentication for all URLs
+- Adds mandatory authentication for all URLs (except few, e.g. /error)
 - Adds login form
 - Handles login error
 - Creates a user and sets a default password
