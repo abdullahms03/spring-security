@@ -26,3 +26,4 @@
 - Override `configure(HttpSecurity http)` method
 - setup the authorization with corresponding details
 - Build with the path(antMatchers), role(can specify multiple roles) and type of login
+- Go with the most restricted access to the least restricted 
