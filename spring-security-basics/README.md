@@ -12,6 +12,7 @@
 - AuthenticationManager manages the authentication
 - Use AuthenticationManagerBuilder to configure the authentication type
 - Extend `WebSecurityConfigurerAdapter` class
+- Annotate the class with `@EnableWebSecurity`
 - Override `configure(AuthenticationManagerBuilder auth)` method
 - setup the authentication type with corresponding details
 
